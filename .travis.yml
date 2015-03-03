@@ -15,7 +15,7 @@ after_success:
 
 env:
     global:
-        - secure: "NxZ9yClukWFx+dmZrfN8IacsQWteRC84xljI1Wy7YzA9vBX24RuO4ahsAFTr21XMFlNG6iZ0MNC2CJiSudm0Ki/+e2iPoTN17U3Hzr0z2zia3rTlWnCusaABOx7z6rL1rvm4GsnCO6KOl3ZgKm3tSNFKyIosqr06jwZQf+sNnc0="
+        - secure: "PnyHMuTavFBr0CoJBVmVsoTr/MCObJTAj1y1SJkShWKrd9BLW2GR6MmjDEBDQYsABInPCOexxIJ6G6tjDNb2yHKTkSupDFnu8qZHgK3KygA99+YN+1Ao25JU9NjvY17kdull3VmkXrw14RPfBl/osbOb5/OuJBzDZdcRfeoq5Qk="
 matrix:
     allow_failures:
         - php: hhvm
